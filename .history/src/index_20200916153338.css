@@ -48,7 +48,3 @@ section {
 
   transition: 0.4s ease-out;
 }
-
-.searchbox:focus {
-  box-shadow: 0px 0px 8px 3px rgb(37, 3, 70);
-}
