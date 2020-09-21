@@ -38,7 +38,7 @@ function App() {
       </header>
       <main>
         <Search handleInput={handleInput} search={search} />
-        <Results results={state.results} />
+        <Results results={results} />
       </main>
     </div>
   );
